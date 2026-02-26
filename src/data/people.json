@@ -285,16 +285,16 @@
     "url": "https://mgwillia.github.io/",
     "role": "phd-student",
     "status": "graduated",
-    "currentPosition": "TikTok",
+    "currentPosition": "Institute of Foundation Models",
     "photo": null,
-    "graduation_year": 2024,
+    "graduation_year": 2025,
     "first_position": {
       "title": "Research Scientist",
       "org": "TikTok"
     },
     "current_position": {
       "title": "Research Scientist",
-      "org": "TikTok"
+      "org": "Institute of Foundation Models"
     },
     "thesis": "Understanding and Modeling Explicit and Implicit Representations of the Visual World"
   },
