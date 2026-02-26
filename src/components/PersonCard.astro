@@ -6,7 +6,7 @@ interface Props {
   role: string;
   startYear?: number;
   tagline?: string | null;
-  coAdvisor?: string | null;
+  coAdvisor?: string | { name: string; url?: string } | null;
 }
 
 const { name, url, photo, role, startYear, tagline, coAdvisor } = Astro.props;

@@ -46,7 +46,7 @@ const ogImage = new URL('/images/abhinav.jpg', Astro.site);
   <link rel="sitemap" href="/sitemap-index.xml">
 
   {/* Structured Data — Person */}
-  <script type="application/ld+json" set:html={JSON.stringify({
+  <script is:inline type="application/ld+json" set:html={JSON.stringify({
     "@context": "https://schema.org",
     "@type": "Person",
     "name": "Abhinav Shrivastava",
