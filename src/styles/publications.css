@@ -22,7 +22,7 @@
 
 .pub-card {
   display: flex;
-  align-items: center;
+  align-items: flex-start;
   gap: 28px;
   padding: 28px 0;
   border-bottom: 1px solid var(--border-subtle);
